@@ -13,12 +13,12 @@ pip install numpy opencv-python mediapipe pycaw
 
 ## How to use?
 
-2) Run main.py
+1) Run main.py
 ```sh
 python main.py
 ```
 
-3) Instructions
+2) Instructions
 - Adjust the distance between the tip of the index finger and thumb to select the volume level.
 - Bring down the ring finger to set the volume.
 - Refer to /screenshots visual guide.
